@@ -14,6 +14,7 @@ public class Squares_lib implements Squares_if {
 		this.y = y;
 	}
 
+	
 	@Override
 	public double getObject() {
 		// TODO Auto-generated method stub
